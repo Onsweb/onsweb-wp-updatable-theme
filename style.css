@@ -5,4 +5,20 @@
  * Description: Todo
  * Version: 0.0.1
  * Text Domain: owtheme
+ * GitHub Theme URI: https://github.com/Onsweb/onsweb-wp-updatable-theme
  */
+
+/*
+GitLab Support
+
+Instead of the GitHub Plugin URI header you will need to use the GitLab Plugin URI header.
+Instead of the GitHub Theme URI header you will need to use the GitLab Theme URI header.
+
+You must set a GitLab private token or a GitLab personal access token.
+Go to your GitLab Settings page under the Account tab. From here you can retrieve or reset your GitLab private token.
+Go to your GitLab Profile Settings page under the Access Tokens tab. From here you can create a personal access token.
+
+GitLab CE/Enterprise Support
+Use the full URI in your GitLab Plugin URI or GitLab Theme URI header for a self-hosted installation. The settings should be similar to GitLab Plugin URI: https://gitlab.yourhost.com/<owner>/<repo>.
+GitLab CE/Enterprise requires authentication with either a personal access token or a repository-dependent access token.
+*/
